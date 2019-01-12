@@ -1,0 +1,6 @@
+﻿  ColorSwitch201216055.cpp
+s:\computergraphics\colorswitch201216055\colorswitch201216055\colorswitch201216055.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+s:\computergraphics\colorswitch201216055\colorswitch201216055\colorswitch201216055.cpp(101): warning C4305: '+=': truncation from 'double' to 'float'
+s:\computergraphics\colorswitch201216055\colorswitch201216055\colorswitch201216055.cpp(208): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ColorSwitch201216055.vcxproj -> S:\ComputerGraphics\ColorSwitch201216055\Debug\ColorSwitch201216055.exe
+  ColorSwitch201216055.vcxproj -> S:\ComputerGraphics\ColorSwitch201216055\Debug\ColorSwitch201216055.pdb (Partial PDB)
